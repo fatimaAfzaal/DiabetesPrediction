@@ -13,4 +13,3 @@ This project aims to develop a predictive model for diabetes using the Random Fo
 
 ## Dataset
 The dataset used for training the model is sourced from Kaggle and contains various health attributes, such as glucose level, blood pressure, BMI, and age, along with their corresponding diabetes outcomes.
-
