@@ -5,6 +5,7 @@
 
 This project aims to develop a predictive model for diabetes using the Random Forest algorithm and Flask framework. The model is trained on a dataset containing various health parameters and their corresponding diabetes outcomes.
 
+
 ## Features
 - Utilizes Random Forest algorithm for accurate prediction
 - Flask framework for building a user-friendly web application
